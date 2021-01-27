@@ -1,0 +1,51 @@
+'''
+
+[name] = [data]
+
+
+'''
+
+#Integer
+
+a = 5 
+a = 4
+
+#Float
+
+a = 3.45
+a = 2.1
+
+#String
+
+a = "string"
+a = "michael and!@#$%*()_Chokyi"
+
+#Boolean
+
+a = True
+a = False 
+
+#List
+
+a = [3, 4, 5, 6]
+
+a = ["stringOne", "stringTwo"]
+
+a = [True, False, True]
+
+a = [1.1, 2.2, 3.3]
+
+
+
+varA = 1
+vara = 2
+
+print(vara)
+
+print(a)
+
+var = 4
+var = "string"
+
+varTwo = var
+print(varTwo)
