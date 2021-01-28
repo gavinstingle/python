@@ -1,9 +1,11 @@
-def volumeCalculator(height, width, depth):
-    area = height * width
-    volume = depth * area
-    sentence = "The volume of this object is: "
-    print(sentence + volume)
-    return volume
+def circleArea():
+    radius = input("What is the radius of your circle?")
+    
+    pi = 3.14
+    squared = int(radius) * int(radius)
+    area = pi * squared 
+    print("The area is: " + area)
+    return area
 
 #Leave the next line alone
-volumeCalculator(5, 5, 5)
+circleArea()

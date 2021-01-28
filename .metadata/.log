@@ -698,3 +698,9 @@ java.lang.StringIndexOutOfBoundsException: begin 7, end 6, length 6
 
 !ENTRY org.python.pydev.shared_core 4 4 2021-01-27 18:03:47.634
 !MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\1ITA\python\.metadata\.plugins\org.eclipse.core.resources\.projects\comments\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-01-27 18:45:34.820
+!MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\1ITA\python\.metadata\.plugins\org.eclipse.core.resources\.projects\input\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-01-28 14:44:59.116
+!MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\1ITA\python\.metadata\.plugins\org.eclipse.core.resources\.projects\survey\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
