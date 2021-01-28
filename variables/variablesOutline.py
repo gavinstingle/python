@@ -80,4 +80,9 @@ print(char)
 #8)
 #Make a variable of any type, with one of the common SYNTAX errors
 
+Titles = "michael"
+
+print(titles)
+
+
 
