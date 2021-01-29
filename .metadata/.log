@@ -797,3 +797,39 @@ java.io.FileNotFoundException: C:\Users\ITAUser\Desktop\1ITA\python\.metadata\.p
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-01-29 11:17:38.761
+!MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\1ITA\python\.metadata\.plugins\org.eclipse.core.resources\.projects\conversion\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-01-29 11:54:11.928
+!MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\1ITA\python\.metadata\.plugins\org.eclipse.core.resources\.projects\conditionals\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-01-29 12:12:03.589
+!MESSAGE Error. returning: 0
+!STACK 0
+java.nio.file.NoSuchFileException: C:\Users\ITAUser\Desktop\1ITA\python\conditionals\debugConditionalsV1.py
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(Unknown Source)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(Unknown Source)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(Unknown Source)
+	at java.base/java.nio.file.Files.readAttributes(Unknown Source)
+	at java.base/java.nio.file.Files.getLastModifiedTime(Unknown Source)
+	at org.python.pydev.shared_core.io.FileUtils.lastModified(FileUtils.java:1081)
+	at org.python.pydev.shared_core.io.FileUtils.lastModified(FileUtils.java:1072)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalDependencyInfo.addInfoToModuleOnRestoreInsertCommand(AbstractAdditionalDependencyInfo.java:526)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalInfoWithBuild.processInsert(AbstractAdditionalInfoWithBuild.java:192)
+	at org.python.pydev.core.DeltaSaver$DeltaInsertCommand.processWith(DeltaSaver.java:98)
+	at org.python.pydev.core.DeltaSaver.processDeltas(DeltaSaver.java:318)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalInfoWithBuild.restoreSavedInfo(AbstractAdditionalInfoWithBuild.java:103)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalDependencyInfo.loadContentsFromFile(AbstractAdditionalDependencyInfo.java:496)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalDependencyInfo.load(AbstractAdditionalDependencyInfo.java:411)
+	at com.python.pydev.analysis.additionalinfo.AdditionalProjectInterpreterInfo.getAdditionalInfoForProject(AdditionalProjectInterpreterInfo.java:247)
+	at com.python.pydev.analysis.additionalinfo.AdditionalProjectInterpreterInfo.recreateAllInfo(AdditionalProjectInterpreterInfo.java:330)
+	at com.python.pydev.analysis.additionalinfo.builders.InterpreterObserver.notifyProjectPythonpathRestored(InterpreterObserver.java:41)
+	at org.python.pydev.plugin.nature.PythonNature$RebuildPythonNatureModules.run(PythonNature.java:200)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-01-29 14:02:35.434
+!MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\1ITA\python\.metadata\.plugins\org.eclipse.core.resources\.projects\quiz\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
