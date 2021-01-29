@@ -5,3 +5,7 @@ Created on Nov 6, 2020
 '''
 
 print("Hello World!")
+
+a = True
+a == True and not True == False
+print(a)
