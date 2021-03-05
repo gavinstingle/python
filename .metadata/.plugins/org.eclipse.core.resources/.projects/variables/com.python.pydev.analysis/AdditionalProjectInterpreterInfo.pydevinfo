@@ -1,37 +1,53 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\ITAUser\Desktop\1ITA\python\.metadata\.plugins\org.eclipse.core.resources\.projects\variables\com.python.pydev.analysis\v2_indexcache
+variableDrills|1611717110105310200|C:\Users\ITAUser\Desktop\1ITA\python\variables\variableDrills.py
 practice|1611715106626935300|C:\Users\ITAUser\Desktop\1ITA\python\variables\practice.py
+variablesOutline|1611720903674110600|C:\Users\ITAUser\Desktop\1ITA\python\variables\variablesOutline.py
+debugVariableDrillsV2|1611721990900765000|C:\Users\ITAUser\Desktop\1ITA\python\variables\debugVariableDrillsV2.py
 -- END DISKCACHE
 -- START DICTIONARY
-2
-2=practice
-1=C:\Users\ITAUser\Desktop\1ITA\python\variables\practice.py
+8
+4=variableDrills
+7=C:\Users\ITAUser\Desktop\1ITA\python\variables\debugVariableDrillsV2.py
+6=practice
+2=variablesOutline
+5=C:\Users\ITAUser\Desktop\1ITA\python\variables\practice.py
+3=C:\Users\ITAUser\Desktop\1ITA\python\variables\variableDrills.py
+1=C:\Users\ITAUser\Desktop\1ITA\python\variables\variablesOutline.py
+8=debugVariableDrillsV2
 -- END DICTIONARY
 -- START TREE 1
-22
-a|1|a!1^10#1*19@
-alm|0|
-b|1|b!1^53#1*19@
-c|0|
-d|0|
-don|0|
-e|0|
-f|0|
-g|0|
-h|0|
-i|0|
-j|0|
-lis|2|listVar!1^60#1*19@list!1^55#1*19@
-mic|1|michael!1^86#1*19@
-nam|1|name!1^78#1*19@
-sma|0|
-str|1|string!1^63#1*19@
-tit|1|Titles!1^90#1*19@
-var|5|varTwo!1^50#1*19@varA!1^40#1*19@vara!1^41#1*19@var!1^47#1*19@varThree!1^82#1*19@
-x|0|
-y|0|
-z|0|
+29
+A|1|A!1^46#1*19@
+a|3|a!1^12#1*19@a!3^51#1*35@a!5^10#1*51@
+alm|1|almostdone!3^118#1*35@
+b|2|b!5^53#1*51@b!3^56#1*35@
+c|1|c!3^61#1*35@
+cha|1|char!1^73#1*19@
+cir|1|circleArea!7^58#5*66@
+d|1|d!3^66#1*35@
+don|1|done!3^98#1*35@
+e|1|e!3^77#1*35@
+f|1|f!3^82#1*35@
+g|1|g!3^87#1*35@
+gav|1|gavin!1^58#1*19@
+h|1|h!3^92#1*35@
+hou|1|house!1^65#1*19@
+i|1|i!3^108#1*35@
+j|1|j!3^113#1*35@
+lis|5|listBoolean!3^139#1*35@listVar!5^60#1*51@listInt!3^124#1*35@list!5^55#1*51@listString!3^132#1*35@
+mic|1|michael!5^86#1*51@
+nam|3|name!3^7#1*35@name!5^78#1*51@name!1^52#1*19@
+shi|1|shippingAndTax!7^39#5*66@
+sma|1|smart!3^103#1*35@
+str|1|string!5^63#1*51@
+tit|2|Titles!1^83#1*19@Titles!5^90#1*51@
+var|9|var1!3^21#1*35@var3!3^31#1*35@varTwo!5^50#1*51@var!1^66#1*19@varA!5^40#1*51@vara!5^41#1*51@var!5^47#1*51@var2!3^26#1*35@varThree!5^82#1*51@
+vol|1|volumeCalculator!7^21#5*66@
+x|1|x!3^36#1*35@
+y|1|y!3^41#1*35@
+z|1|z!3^47#1*35@
 -- END TREE
 -- START TREE 2
 0
