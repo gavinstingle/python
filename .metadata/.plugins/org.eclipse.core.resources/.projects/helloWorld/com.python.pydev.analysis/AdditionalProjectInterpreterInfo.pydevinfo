@@ -1,7 +1,7 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\ITAUser\Desktop\1ITA\python\.metadata\.plugins\org.eclipse.core.resources\.projects\helloWorld\com.python.pydev.analysis\v2_indexcache
-helloWorld|1614980551557944100|C:\Users\ITAUser\Desktop\1ITA\python\helloWorld\helloWorld.py
+helloWorld|1614981855532228100|C:\Users\ITAUser\Desktop\1ITA\python\helloWorld\helloWorld.py
 -- END DISKCACHE
 -- START DICTIONARY
 2
@@ -9,8 +9,12 @@ helloWorld|1614980551557944100|C:\Users\ITAUser\Desktop\1ITA\python\helloWorld\h
 2=helloWorld
 -- END DICTIONARY
 -- START TREE 1
-1
+5
+che|1|checkStudents!1^26#5*18@
 cou|1|counting!1^7#5*18@
+fru|1|fruits!1^17#5*18@
+lis|1|listOFruit!1^23#1*19@
+stu|1|studentList!1^37#1*19@
 -- END TREE
 -- START TREE 2
 0

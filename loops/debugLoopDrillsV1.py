@@ -20,7 +20,7 @@ def counting():
     x = 0
     while(x <= 100):
         print(x)
-    x = x + 1
+        x = x + 1
     print("DONE")
     return 
 
@@ -31,8 +31,8 @@ This function takes a list of fruits and prints out each fruit in the list using
 a for loop.
 '''
 def fruits(fruit):
-    for  in fruit
-    print(x)
+    for x in fruit:
+        print(x)
     print("DONE")
     return 
 
@@ -50,25 +50,24 @@ the student is failing, it prints "[NAME] is failing."
 '''
 def checkStudents(studentList):
     x = 0
-    while(x  len(studentList[0]))
+    while(x < len(studentList[0])):
         if(studentList[1][x] == True):
             print(studentList[0][x] + " is passing.")
         else:
             print(studentList[0][x] + " is failing.")
-        x =
+        x = x + 1
     print("DONE")
     return 
 
-listOfStudents = [["Michael", "Patrice", "Amaya", "William"], [True, True, True, False]]
-checkStudents(listOfStudents)
-
+studentList = [["Michael", "Patrice", "Amaya", "William"], [True, True, True, False]]
+checkStudents(studentList)
 '''
 This function takes a list of grades and then prints each of the grades out with
 a for loop.
 '''
 def printGrades(studentList):
-    for grade in :
-    print(grade)
+    for grade in listOfStudents:
+        print(grade)
     print("DONE")
     return 
 
